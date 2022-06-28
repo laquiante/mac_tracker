@@ -2,7 +2,6 @@
 # source testumgebung/bin/activate
 
 from flask import Flask
-from flask import 
 from flast import render_template
 
 
