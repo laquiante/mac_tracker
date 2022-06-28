@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+
+# Benutzer: cumulus im Home-Verzeichnis
 # source testumgebung/bin/activate
 
 from flask import Flask
